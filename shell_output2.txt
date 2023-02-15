@@ -1,0 +1,8 @@
+Get-Partition : No MSFT_Partition objects found with property 'DiskNumber' equal to '2'.  Verify the value of the 
+property and retry.
+At line:1 char:1
++ Get-Partition -DiskNumber 2
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (2:UInt32) [Get-Partition], CimJobException
+    + FullyQualifiedErrorId : CmdletizationQuery_NotFound_DiskNumber,Get-Partition
+ 

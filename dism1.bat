@@ -1,0 +1,1 @@
+dism /Capture-Image /ImageFile:"E:\install.wim" /CaptureDir:H: /Name:"Windows 10 Pro"
