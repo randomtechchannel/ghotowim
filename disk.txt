@@ -1,4 +1,0 @@
-create vdisk file="E:\disk.vhd" maximum=102400 type=expandable
-select vdisk file="E:\disk.vhd"
-attach vdisk
-convert mbr
