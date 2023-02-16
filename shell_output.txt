@@ -1,9 +1,0 @@
-
-Number Friendly Name Serial Number                    HealthStatus         OperationalStatus      Total Size Partition 
-                                                                                                             Style     
------- ------------- -------------                    ------------         -----------------      ---------- ----------
-0      KINGSTON S... 50026B7783183451                 Healthy              Online                  111.79 GB GPT       
-2      Msft Virtu...                                  Healthy              Online                     100 GB MBR       
-1      WDC WD10EZ...      WD-WCC6Y2SXL1XK             Healthy              Online                  931.51 GB GPT       
-
-
